@@ -11,3 +11,6 @@ optional arguments:
   -h, --help      show this help message and exit
   -s, --sum       sum rewards per block type
 
+With the -s flag one can see the rewards distribution in the chosen period. Without that flag the graphic would report the number of the blocks distribution per type.
+The data are taken from the file data.csv which is also present in this repository.
+
