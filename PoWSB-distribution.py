@@ -12,7 +12,7 @@ parser.add_argument('ending_date', metavar='ending_date', type=lambda s: datetim
                     help='- the date to end with, format yyyy-mm-dd')
 args = parser.parse_args()
 
-df = pd.read_csv ('https://github.com/slimcoin-project/slm-assets/raw/master/data.csv', index_col='date-time', parse_dates=True)
+df = pd.read_csv ('https://github.com/buhtignew/PoWSB-distribution/raw/main/data.csv', index_col='date-time', parse_dates=True)
 df = df.sort_index()
 df= df.tz_convert (None)
 df_after = df.loc[args.beginning_date : args.ending_date]
