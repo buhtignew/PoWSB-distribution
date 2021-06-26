@@ -14,3 +14,4 @@ optional arguments:
 With the -s flag one can see the rewards distribution in the chosen period. Without that flag the graphic would report the number of the blocks distribution per type.
 The data are taken from the file data.csv which is also present in this repository.
 
+The data.csv file contains only the blocks from 2021-02-10 to 2021-05-31 at the moment. So chose your desired time span consequently. 
