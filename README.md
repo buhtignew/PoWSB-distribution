@@ -1,7 +1,7 @@
 # PoWSB-distribution
 Python script to create graphics of PoW/PoB/PoS blocks distribution in Slimcoin
 
-usage: PoWSB-distribution.py [-h] [-s] beginning_date ending_date
+usage: python PoWSB-distribution.py [-h] [-s] beginning_date ending_date
 
 positional arguments:
   beginning_date  - the date to start from, format yyyy-mm-dd
