@@ -23,4 +23,4 @@ With the -s flag one can see the rewards distribution in the chosen period. With
 
 The data are taken from the file data.csv which is also present in this repository.
 
-The data.csv file contains the blocks up to 2524262 (2021-08-13 21:13:35 UTC) at the moment. So chose your desired time span consequently. 
+The data.csv file contains the blocks up to 2535771 (2021-08-25 22:03:46 UTC) at the moment. So chose your desired time span consequently. 
